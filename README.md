@@ -3,4 +3,4 @@ First, <a href="https://support.nordvpn.com/Connectivity/Linux/1325531132/Instal
 Then, install the WireGuard ulitily via ```sudo apt install wireguard```. 
 Set protocol by ```nordvpn set technology nordlynx```.
 
-Now, run the script using the following command: ```sudo ./get_conf #server_code#```. Choose server code from <a href="https://nordvpn.com/ovpn/">here</a>. Code ```al18``` corresponds to ```al18.nordvpn.com``` server. Script will generate a config file in the current directory.
+Now, run the script using the following command: ```sudo ./get_conf #server_code#```. Choose a server code from <a href="https://nordvpn.com/ovpn/">here</a>. The code of ```al18``` corresponds to the ```al18.nordvpn.com``` server. Script will generate a config file in the current directory.
